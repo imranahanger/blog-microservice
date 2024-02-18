@@ -1,0 +1,26 @@
+# Virtual Environment
+blogenv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local configuration file (uncomment if needed)
+# .env
+
+# IDE files
+.idea/
+
+# Compiled Python files
+*.pyc
+
+# Compiled Cython files
+*.pyo
+*.pyd
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
